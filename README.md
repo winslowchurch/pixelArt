@@ -15,3 +15,5 @@ Examples
 --------
 ![](https://github.com/winslowchurch/pixelArt/blob/main/1.jpg)
 
+![](https://github.com/winslowchurch/pixelArt/blob/main/2.jpg)
+
