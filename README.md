@@ -13,5 +13,5 @@ Pressing escape saves the canvas as a tif
 
 Examples
 --------
-![](https://github.com/winslowchurch/pixelArt/blob/main/pink.tif)
+![](https://github.com/winslowchurch/pixelArt/blob/main/1.jpg)
 
